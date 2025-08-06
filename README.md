@@ -33,9 +33,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashrifahamed&show_icons=true&theme=radical" alt="Ashrif's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashrif-Hub&show_icons=true&theme=radical" alt="Ashrif's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashrifahamed&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashrif-Hub&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -43,7 +43,7 @@
 ### 📫 Let's Connect
 
 - 📧 Email: [ashrifahamed999@gmail.com](mailto:ashrifahamed500@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ashrifahamed](https://www.linkedin.com/in/ashrifahamed)
+- 💼 LinkedIn: [linkedin.com/in/ashrifahamed](linkedin.com/in/ashrif-ahamed)
 
 ---
 
