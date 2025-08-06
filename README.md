@@ -42,8 +42,8 @@
 
 ### 📫 Let's Connect
 
-- 📧 Email: [ashrifahamed999@gmail.com](mailto:ashrifahamed500@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/ashrifahamed](linkedin.com/in/ashrif-ahamed)
+- 📧 Email: [asrifahamed500@gmail.com](mailto:asrifahamed500@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/ashrif-ahamed](linkedin.com/in/ashrif-ahamed)
 
 ---
 
